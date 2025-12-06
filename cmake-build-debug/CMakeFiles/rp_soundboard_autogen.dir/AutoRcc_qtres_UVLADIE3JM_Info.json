@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug/rp_soundboard_autogen",
+	"CMAKE_BINARY_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5",
+	"CMAKE_SOURCE_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug/rp_soundboard_autogen/include",
+	"INPUTS" : 
+	[
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/speaker_icon_3_64.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/speaker_icon_1_64.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/speaker_icon_2_64.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/speaker_icon_0_64.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/stoparrow_32.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/rpmb_icon_16.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/rpmb_icon_64.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/pausebutton_32.png",
+		"I:/Documents/CLionProjects/RP-Soundboard-1.4.5/img/playarrow_32.png"
+	],
+	"LOCK_FILE" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug/CMakeFiles/rp_soundboard_autogen.dir/AutoRcc_qtres_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qtres" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_qtres.cpp",
+	"RCC_EXECUTABLE" : "I:/Softwares/Qt/5.15.2/mingw81_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/cmake-build-debug/CMakeFiles/rp_soundboard_autogen.dir/AutoRcc_qtres_UVLADIE3JM_Used.txt",
+	"SOURCE" : "I:/Documents/CLionProjects/RP-Soundboard-1.4.5/src/qtres.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
